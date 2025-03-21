@@ -2,7 +2,7 @@
 
 # 🚀 Monish Raj T - GitHub Portfolio  
 
-![GitHub Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Portfolio)  
+
 
 ## 🌟 About Me  
 
