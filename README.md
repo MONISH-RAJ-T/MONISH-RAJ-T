@@ -18,11 +18,18 @@
 ## 🔥 Tech Stack & Skills
 
 ### 🚀 Programming Languages:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Python Proficiency](https://img.shields.io/badge/-90%25-brightgreen?style=flat-square)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Java Proficiency](https://img.shields.io/badge/-75%25-yellow?style=flat-square)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![JavaScript Proficiency](https://img.shields.io/badge/-85%25-yellowgreen?style=flat-square)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![C++ Proficiency](https://img.shields.io/badge/-65%25-orange?style=flat-square)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+  ![R Proficiency](https://img.shields.io/badge/-70%25-lightgrey?style=flat-square)
+
 
 ### 🛠 Frameworks & Tools:
 - **Machine Learning:** TensorFlow, Scikit-learn, NumPy, Pandas
