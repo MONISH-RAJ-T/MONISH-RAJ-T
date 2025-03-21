@@ -50,7 +50,7 @@
 ## 💡 Featured Projects
 
 ### 🚗 **Vehicle Routing Optimization (Genetic Algorithm)** *(Jan 2025 - Present)*
-📌 Optimized delivery routes using **Genetic Algorithms**, achieving **30% cost reduction**.
+📌 Optimized delivery routes using **Genetic Algorithms**, achieving **30% cost reduction \n**.
 📌 Technologies: **Python, DEAP, NumPy, Pandas, Matplotlib**.
 
 ### 📉 **Dimensionality Reduction in ML Models** *(Dec 2024 - Present)*
