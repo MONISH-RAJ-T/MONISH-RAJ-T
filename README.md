@@ -1,7 +1,8 @@
 # 🚀 Monish Raj T - Machine Learning & Data Science Enthusiast | GitHub Portfolio  
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=F7B801&background=000000&center=true&width=500&lines=Monish+Raj+T;Machine+Learning+%26+Data+Science+Enthusiast)  
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=1500&pause=800&color=F7B801&background=000000&center=true&width=600&lines=Hello!+I'm+Monish+Raj+T;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science+Enthusiast;AI+Driven+Innovator+%7C+Full+Stack+Developer;Let's+Build+Something+Amazing!+🚀" alt="Typing Animation">
+</p>
 
 
 # 🚀 Monish Raj T - GitHub Portfolio  
