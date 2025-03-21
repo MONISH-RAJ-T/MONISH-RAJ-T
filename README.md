@@ -1,10 +1,6 @@
 
 
-# 🚀 Monish Raj T - GitHub Portfolio  
-
-![GitHub Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Portfolio)  
-
-## 🌟 About Me  
+# 🚀 Monish Raj T - GitHub Portfolio   
 
 👋 Hi, I'm **Monish Raj T**, a passionate **AI & Data Science** enthusiast pursuing **B.Tech at Karpagam College of Engineering**. I love working on **Machine Learning, Data Science, and Web Development** projects that solve real-world problems.  
 
