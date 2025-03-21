@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🚀 Monish Raj T - GitHub Portfolio
 
 ![GitHub Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Portfolio)
@@ -18,18 +16,16 @@
 ## 🔥 Tech Stack & Skills
 
 ### 🚀 Programming Languages:
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Python Proficiency](https://img.shields.io/badge/-90%25-brightgreen?style=flat-square)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Java Proficiency](https://img.shields.io/badge/-75%25-yellow?style=flat-square)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![JavaScript Proficiency](https://img.shields.io/badge/-85%25-yellowgreen?style=flat-square)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![C++ Proficiency](https://img.shields.io/badge/-65%25-orange?style=flat-square)
-- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-  ![R Proficiency](https://img.shields.io/badge/-70%25-lightgrey?style=flat-square)
-
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🛠 Frameworks & Tools:
 - **Machine Learning:** TensorFlow, Scikit-learn, NumPy, Pandas
@@ -45,19 +41,19 @@
 ## 💡 Featured Projects
 
 ### 🚗 **Vehicle Routing Optimization (Genetic Algorithm)** *(Jan 2025 - Present)*
-📌 Optimized delivery routes using **Genetic Algorithms**, achieving **30% cost reduction**.
+📌 Optimized delivery routes using **Genetic Algorithms**, achieving **30% cost reduction**.  
 📌 Technologies: **Python, DEAP, NumPy, Pandas, Matplotlib**.
 
 ### 📉 **Dimensionality Reduction in ML Models** *(Dec 2024 - Present)*
-📌 Improved classification accuracy from **73% to 84%** using **K-Means clustering**.
+📌 Improved classification accuracy from **73% to 84%** using **K-Means clustering**.  
 📌 Technologies: **Python, Scikit-learn, PCA, Matplotlib, Seaborn**.
 
 ### 💬 **WhatsApp Chat Sentiment Analysis** *(Apr 2024 - May 2024)*
-📌 Built an **NLP-based real-time sentiment analysis** dashboard using **Streamlit**.
+📌 Built an **NLP-based real-time sentiment analysis** dashboard using **Streamlit**.  
 📌 Technologies: **Python, TensorFlow, NLTK, Streamlit, Seaborn**.
 
 ### 📊 **Social Network Ads Prediction** *(Feb 2024 - Apr 2024)*
-📌 Developed an **AutoML-powered predictive model** for **better ad targeting**.
+📌 Developed an **AutoML-powered predictive model** for **better ad targeting**.  
 📌 Technologies: **Python, AutoML, Scikit-learn, Django**.
 
 ---
@@ -100,19 +96,3 @@
 💻 **[GitHub](https://github.com/MONISH-RAJ-T)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/monish-raj-t/)**  
 🌟 **Let's build something amazing together! 🚀**
-
-
-<!--
-**MONISH-RAJ-T/MONISH-RAJ-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
